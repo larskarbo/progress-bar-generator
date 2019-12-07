@@ -1,0 +1,11 @@
+{
+  "name": "progress-bar-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.1",
+    "ascii-progress": "^1.0.5",
+    "cli-progress": "^3.4.0"
+  }
+}
